@@ -1,5 +1,9 @@
 # Tic-Tac-Toe-6x6-AI
 6x6 Tic-Tac-Toe with Easy/Hard AI — SIT102 H1 something awesome project.
+
+# Video DEMO
+https://youtu.be/DsJEWtNo6K8
+
 ## Overview
 This project extends the classic Tic-Tac-Toe into a **6x6 version**, where players must get **four in a row** to win.  
 It includes:
